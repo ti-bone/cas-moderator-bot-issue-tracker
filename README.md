@@ -9,4 +9,4 @@ All Issues need to have this kind:
 2. How to reproduce issue.
 3. If you changed any data(e.g. banned someone or changed some data), please say what you changed\deleted\added.
 
-# If missing second paragraph, issue will be rejected!
+# If missing info how to reproduce the issue, issue will be rejected!
