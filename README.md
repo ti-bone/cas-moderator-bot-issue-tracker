@@ -1,6 +1,6 @@
 # C.A.S Moderator Bot issue tracker
 
-If you found a bug in [@casmoderator_bot](https://t.me/casmoderator_bot), you can report it here!
+If you found a bug in [@casmoderator_bot](https://t.me/casmoderator_bot), you can report it [here](https://github.com/ti-bone/cas-moderator-bot-issue-tracker/issues)!
 
 # Reporting issues
 
